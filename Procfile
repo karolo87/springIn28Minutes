@@ -1,0 +1,1 @@
+web: java -jar target/springIn28Minutes-0.0.1-SNAPSHOT.jar
